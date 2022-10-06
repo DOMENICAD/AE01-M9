@@ -10,7 +10,7 @@ capybara-*.html
 *.orig
 rerun.txt
 pickle-email-*.html
-
+.idea/*
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
@@ -65,3 +65,5 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+
+database.yml
